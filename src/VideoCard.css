@@ -12,6 +12,7 @@
   display: flex;
   padding-top: 10px;
   padding-right: 30px;
+  /* align-items: center; */
 }
 
 .videoCard__text {
