@@ -12,7 +12,6 @@
   display: flex;
   padding-top: 10px;
   padding-right: 30px;
-  /* align-items: center; */
 }
 
 .videoCard__text {
@@ -21,13 +20,13 @@
 
 .videoCard__text > h4 {
   font-size: 14px;
-  margin-bottom: 5px;
+  margin: 1px 0px 1px 0px;
 }
 
 .videoCard__text > p {
   font-size: 14px;
   color: gray;
-  margin-top: 5px;
+  margin: 1px 0px 1px 0px;
 }
 
 .videoCard_avatar {
